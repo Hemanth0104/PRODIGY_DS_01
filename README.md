@@ -25,14 +25,14 @@ The dataset contains World Bank population data, including population figures fo
 
 ##   Key Observations
 
-* The analysis reveals the structure of the World Bank population dataset.
-* The visualizations highlight population trends for India and the overall distribution of population sizes.
-* World in Decade 2010's made up 2.02% of Sum of population.
-* 2010's accounted for 21.57% of Sum of population.
-* At 349356941821, World had the highest Sum of population and was 6,48,38,996.41% higher than Tuvalu, which had the lowest Sum of population at 538806.
-* World had the highest Sum of population at 349356941821, followed by IDA & IBRD total and Low & middle income. Tuvalu had the lowest Sum of population at 538806.
-* World accounted for 9.53% of Sum of population.
-* Across all 265 Country Name, Sum of population ranged from 538806 to 349356941821.
+    * The analysis reveals the structure of the World Bank population dataset.
+    * The visualizations highlight population trends for India and the overall distribution of population sizes.
+    * World in Decade 2010's made up 2.02% of Sum of population.
+    * 2010's accounted for 21.57% of Sum of population.
+    * At 349356941821, World had the highest Sum of population and was 6,48,38,996.41% higher than Tuvalu, which had the lowest Sum of population at 538806.
+    * World had the highest Sum of population at 349356941821, followed by IDA & IBRD total and Low & middle income. Tuvalu had the lowest Sum of population at 538806.
+    * World accounted for 9.53% of Sum of population.
+    * Across all 265 Country Name, Sum of population ranged from 538806 to 349356941821.
 
 ##   Sample Visualizations
 
@@ -40,7 +40,8 @@ The dataset contains World Bank population data, including population figures fo
 
 The bar chart below illustrates the population of India for each decade.
 
-    [Bar chart would be inserted here if the environment allowed]
+    ![Bar Chart](barchart.png)
+
 
 ###   Population Distribution Across Countries in the 2010s
 
@@ -48,8 +49,12 @@ The histogram below shows the distribution of population across all countries du
 
     [Histogram would be inserted here if the environment allowed]
 
+###   Population Growth of All Countries (Every 10 Years)
+
+    http://googleusercontent.com/image_generation_content/0
+
 ##   Next Steps
 
-* Further analysis could involve comparing population growth rates across different regions or country classifications.
-* Time series analysis could be used to forecast future population trends.
-* The dataset could be merged with other socioeconomic indicators.
+    * Further analysis could involve comparing population growth rates across different regions or country classifications.
+    * Time series analysis could be used to forecast future population trends.
+    * The dataset could be merged with other socioeconomic indicators.
