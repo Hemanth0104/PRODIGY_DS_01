@@ -40,21 +40,29 @@ The dataset contains World Bank population data, including population figures fo
 
 The bar chart below illustrates the population of India for each decade.
 
-    ![Bar Chart](barchart.png)
+  ![barplot_India](https://github.com/user-attachments/assets/bd4aa0fd-2971-41e5-8e3a-20766b141a7b)
 
 
 ###   Population Distribution Across Countries in the 2010s
 
 The histogram below shows the distribution of population across all countries during the 2010s.
 
-    [Histogram would be inserted here if the environment allowed]
+![histplot](https://github.com/user-attachments/assets/a88cf982-b96d-4325-9a23-0be89587ba0c)
+
+    
+
 
 ###   Population Growth of All Countries (Every 10 Years)
 
-    http://googleusercontent.com/image_generation_content/0
+ ![barplot](https://github.com/user-attachments/assets/86b2b303-c79d-4239-92fe-026c670a769f)
+
+   
 
 ##   Next Steps
 
     * Further analysis could involve comparing population growth rates across different regions or country classifications.
     * Time series analysis could be used to forecast future population trends.
     * The dataset could be merged with other socioeconomic indicators.
+
+
+
