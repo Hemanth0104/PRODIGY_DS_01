@@ -1,4 +1,4 @@
-#   Exploratory Data Analysis Report - World Bank Population Data
+#   Task-1- World Bank Population Data
 
 This report summarizes the exploratory data analysis (EDA) performed on World Bank population data using the "PRODIGY_DS_01.ipynb" Jupyter Notebook.
 
